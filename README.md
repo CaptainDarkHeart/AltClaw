@@ -1,6 +1,16 @@
-# AltClaw
+<div align="center">
+  <img src="altclaw-logo.png" alt="AltClaw Logo" width="800">
 
-**Analyze your OpenClaw/Moltbot/Clawdbot setup and discover better alternatives with Claude Code**
+  # AltClaw
+
+  **Analyze your OpenClaw/Moltbot/Clawdbot setup and discover better alternatives with Claude Code**
+
+  [![Status](https://img.shields.io/badge/status-production-brightgreen)]()
+  [![Cost Savings](https://img.shields.io/badge/savings-60--90%25-blue)]()
+  [![Analysis Time](https://img.shields.io/badge/analysis-2--5min-orange)]()
+  [![License](https://img.shields.io/badge/license-MIT-green)]()
+
+</div>
 
 AltClaw is a Claude Code skill that scans existing OpenClaw, Moltbot, and Clawdbot installations to identify opportunities for improved performance, cost-effectiveness, and security through migration to Claude Code.
 
